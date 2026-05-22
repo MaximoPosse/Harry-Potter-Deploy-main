@@ -81,7 +81,7 @@ Project/
 
 ## Autor
 
-Pablo Gareis
+Maximo Posse
 
 ## Aviso Legal
 
